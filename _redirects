@@ -1,1 +1,1 @@
-/backend/*  /backend/:splat  200!
+/backend/*  https://netlify-wordpress-proxy.debd.com/backend/:splat  200!
